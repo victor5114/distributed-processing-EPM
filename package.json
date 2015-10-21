@@ -1,0 +1,10 @@
+{
+  "name": "distributed-services-with-error-handling",
+  "version": "0.0.2",
+  "date" : "November 2014",
+  "description": "Simulation of distributed arch, developed at Polytechnique Montreal",
+  "author": [
+    "Enzo Laurent",
+    "Victor Pongnian"
+  ]
+}
